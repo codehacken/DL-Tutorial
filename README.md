@@ -5,10 +5,10 @@ The tutorial is inspired by [Tensorflow-examples](https://github.com/aymericdami
 
 ## Tutorial Index
 ### 0 - Prerequistes
+An introduction to Tensorflow and a look at MNIST, a standard dataset that is used in Deep Learning. Also, added are list of links to good materials available online.
 - [Resource Links](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-0-Prerequisite/Resources.ipynb) A list of some of he popular online resources to study deep learning / neural networks.
 - [Tensorflow Basics](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-0-Prerequisite/tf-basics.ipynb) An overview of tensorflow basics and operations.
 
-A general introduction to machine learning and various concepts. Look at the standard datasets that are used in machine learning, computer vision & natural language processing. Also, added are list of links to good materials available online.
 ### 1 - Introduction
 ### 2 - Basics
 
