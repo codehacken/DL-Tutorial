@@ -1,12 +1,12 @@
 # Deep Learning Tutorial
 This is a tutorial on [Tensorflow](https://www.tensorflow.org/) & [PyTorch](http://pytorch.org/) that starts from its basics (constants and variables) to implementing different kinds of neural network architectures. [Keras](https://keras.io/) is a library build on tensorflow and [theano](http://deeplearning.net/software/theano/) and allows users to create neural networks in an abstract form (i.e. create a neural network by adding different kinds of layers without defining their operations). The tutorial contains same examples implemented in Keras so that it easy to gauge which libarary is more preferable according to the requirements. Most python libraries are based on [NumPy](http://www.numpy.org/) & [SciPy](https://www.scipy.org/). The tutorial uses the python [Pandas](http://pandas.pydata.org/) framework with these libraries as a way to manage data.
 
-The tutorial is inspired by (Tensorflow-examples)[https://github.com/aymericdamien/TensorFlow-Examples] in structure.
+The tutorial is inspired by (Tensorflow-examples)[https://github.com/aymericdamien/TensorFlow-Examples] in structure and [Abhay Kashyap](https://github.com/abhay1/tf_rundown)
 
 ## Tutorial Index
 ### 0 - Prerequistes
-- (Resource Links)[https://github.com/codehacken/DL-Tutorial/blob/master/Ch-0-Prerequisite/Ch-0-Prerequisite.ipynb] A list of some of he popular online resources to study deep learning / neural networks.
-
+- [Resource Links](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-0-Prerequisite/Resources.ipynb) A list of some of he popular online resources to study deep learning / neural networks.
+- [Tensorflow Basics](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-0-Prerequisite/tf-basics.ipynb) An overview of tensorflow basics and operations.
 
 A general introduction to machine learning and various concepts. Look at the standard datasets that are used in machine learning, computer vision & natural language processing. Also, added are list of links to good materials available online.
 ### 1 - Introduction
@@ -24,4 +24,4 @@ A general introduction to machine learning and various concepts. Look at the sta
 - [Caffe](http://caffe.berkeleyvision.org/)
 - [Torch](http://torch.ch/)
   - [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
-
+  
