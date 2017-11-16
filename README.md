@@ -6,8 +6,8 @@ The tutorial is inspired by [Tensorflow-examples](https://github.com/aymericdami
 ## Tutorial Index
 ### 0 - Prerequistes
 An introduction to Tensorflow and a look at MNIST, a standard dataset that is used in Deep Learning. Also, added are list of links to good materials available online.
-- [Resource Links](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-0-Prerequisite/Resources.ipynb) A list of some of he popular online resources to study deep learning / neural networks.
-- [Tensorflow Basics](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-0-Prerequisite/tf-basics.ipynb) An overview of tensorflow basics and operations.
+- [Resource Links](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-0-Prerequisite/Resources.ipynb) - A list of some of he popular online resources to study deep learning / neural networks.
+- [Tensorflow Basics](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-0-Prerequisite/tf-basics.ipynb) - An overview of tensorflow basics and operations.
 
 ### 1 - Basic Models
 An introduction to basic machine learnin models and how they can be implemented in various libraries. Each notebook provides the setup for the problem, the data and how the model is trained.
