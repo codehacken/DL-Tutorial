@@ -12,7 +12,7 @@ An introduction to Tensorflow and a look at MNIST, a standard dataset that is us
 ### 1 - Basic Models
 An introduction to basic machine learnin models and how they can be implemented in various libraries. Each notebook provides the setup for the problem, the data and how the model is trained.
 - [Linear Regression](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-1-Basic-Models/Linear%20Regression.ipynb)
-- [Linear Regression](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-1-Basic-Models/Linear%20Regression-Tensorboard.ipynb)
+- [Linear Regression with Tensorboard Visualization](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-1-Basic-Models/Linear%20Regression-Tensorboard.ipynb)
 - [Logistic Regression](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-1-Basic-Models/Logisitic%20Regression.ipynb)
 
 ### 2 - Feed Forward Networks
