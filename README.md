@@ -12,6 +12,12 @@ An introduction to Tensorflow and a look at MNIST, a standard dataset that is us
 ### 1 - Basic Models
 An introduction to basic machine learnin models and how they can be implemented in various libraries. Each notebook provides the setup for the problem, the data and how the model is trained.
 - [Linear Regression](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-1-Basic-Models/Linear%20Regression.ipynb)
+- [Linear Regression](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-1-Basic-Models/Linear%20Regression-Tensorboard.ipynb)
+- [Logistic Regression](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-1-Basic-Models/Logisitic%20Regression.ipynb)
+
+### 2 - Feed Forward Networks
+An introduction to Feed Forward Networks (or Multilayer Perceptrons).
+- [MLP](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-2-Feed-Neural-Networks/Multilayer-Perceptron.ipynb)
 
 ## References
 - [A List of Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
@@ -26,3 +32,4 @@ An introduction to basic machine learnin models and how they can be implemented 
 - [Torch](http://torch.ch/)
   - [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
 - [PyTorch](http://pytorch.org/)  
+- [Visdom](https://github.com/facebookresearch/visdom) - Another popular tool to create visualizations for your parameters.
