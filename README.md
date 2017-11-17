@@ -17,7 +17,7 @@ An introduction to basic machine learnin models and how they can be implemented 
 
 ### 2 - Feed Forward Networks
 An introduction to Feed Forward Networks (or Multilayer Perceptrons).
-- [MLP](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-2-Feed-Neural-Networks/Multilayer-Perceptron.ipynb)
+- [Multilayer Perceptron](https://github.com/codehacken/DL-Tutorial/blob/master/Ch-2-Feed-Neural-Networks/Multilayer-Perceptron.ipynb)
 
 ## References
 - [A List of Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
